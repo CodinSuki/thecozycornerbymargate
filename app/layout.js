@@ -1,5 +1,5 @@
 <head>
-  <meta name="google-site-verification" content="googleaefebfb61622ac00.html" />
+  <meta name="google-site-verification" content="a3uFpKLX9_5aq68QqiBihUmYbSA_YYTM414ZNSeBB2Q" />
 </head>
 
 export const metadata = {
