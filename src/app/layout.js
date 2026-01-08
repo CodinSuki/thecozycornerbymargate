@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-zinc-50`}
       >
-        <header className="border-b bg-white">
+        <header className="border-b bg-black">
           <div className="mx-auto max-w-6xl flex justify-between items-center p-4">
             <h1 className="text-xl font-semibold">The Cozy Corner</h1>
             <nav className="space-x-4 text-sm">
