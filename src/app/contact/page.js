@@ -3,7 +3,7 @@ export default function ContactPage() {
     <section className="max-w-md">
       <h2 className="text-3xl font-semibold mb-4">Contact Us</h2>
 
-      <form className="bg-white p-6 rounded shadow space-y-4">
+      <form className="bg-black p-6 rounded shadow space-y-4">
         <input
           type="text"
           placeholder="Name"

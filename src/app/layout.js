@@ -38,7 +38,7 @@ export default function RootLayout({ children }) {
         <main className="mx-auto max-w-6xl p-6">{children}</main>
 
         <footer className="text-center text-sm text-zinc-500 py-6">
-          © 2026 The Cozy Corner
+          © 2026 The Cozy Corner | MARGATE 
         </footer>
       </body>
     </html>
